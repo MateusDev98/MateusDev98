@@ -1,6 +1,6 @@
 ### Olá sou o Mateus Lopes, desenvolvedor web 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como fullstack
 - 🌱 Estudando mais a fundo o desenvolvimento web
 - 📫 Contate-me no e-mail: mateus.lopes9812@gmail.com
 
