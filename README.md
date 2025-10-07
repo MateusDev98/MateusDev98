@@ -1,7 +1,7 @@
 ### Olá sou o Mateus Lopes, desenvolvedor web 👋
 
 - 🔭 FrontEnd
-- 🌱 Estudando mais a fundo o desenvolvimento web
+- 🌱 Em constante evolução
 - 📫 Contate-me no e-mail: mateus.lopes9812@gmail.com
 
 <div align="center">
