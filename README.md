@@ -1,10 +1,3 @@
-<aside>
-✅
-
-Copie e cole este conteúdo no seu repositório **MateusDev98/MateusDev98** como `README.md`.
-
-</aside>
-
 ### Mateus Lopes — Web Developer (Front-end)
 
 Construo aplicações web com foco em **arquitetura**, **performance** e **experiência de uso**. Trabalho com **React** e ecossistema moderno (microfrontends, design systems, integrações com BFF/APIs) e gosto de transformar problemas complexos em soluções simples e bem documentadas.
