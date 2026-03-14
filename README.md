@@ -40,19 +40,3 @@ Construo aplicações web com foco em **arquitetura**, **performance** e **exper
 
 - Email: [**mateus.lopes9812@gmail.com**](mailto:mateus.lopes9812@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/mateus-lopes-da-silva-9a3838174
-
----
-
-- Seções opcionais (para deixar ainda mais “recheado”)
-    
-    #### Como eu gosto de trabalhar
-    
-    - Documentação objetiva e viva (decisões, trade-offs e próximos passos)
-    - Padrões claros para facilitar colaboração e manutenção
-    - Entregas incrementais com foco no que gera valor
-    
-    #### O que estou estudando
-    
-    - Arquitetura front-end em escala (microfrontends, monorepo vs. multirepo)
-    - Performance (bundle, cache, rendering, métricas)
-    - Segurança e controle de acesso (RBAC, integração com SSO)
