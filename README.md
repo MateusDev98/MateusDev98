@@ -1,31 +1,65 @@
-### Olá sou o Mateus Lopes, desenvolvedor web 👋
+<aside>
+✅
 
-- 🔭 FrontEnd
-- 🌱 Em constante evolução
-- 📫 Contate-me no e-mail: mateus.lopes9812@gmail.com
+Copie e cole este conteúdo no seu repositório **MateusDev98/MateusDev98** como `README.md`.
 
-<div align="center">
-  <a href="https://github.com/MateusDev98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusDev98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDev98&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mateus-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Mateus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Mateus-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Mateus-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/mateus.silva_l" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mateus.lopes9812@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-lopes-da-silva-9a3838174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</aside>
+
+### Mateus Lopes — Web Developer (Front-end)
+
+Construo aplicações web com foco em **arquitetura**, **performance** e **experiência de uso**. Trabalho com **React** e ecossistema moderno (microfrontends, design systems, integrações com BFF/APIs) e gosto de transformar problemas complexos em soluções simples e bem documentadas.
+
+- 🔭 **Front-end** com foco em escala (arquitetura e padrões)
+- 🌱 Em constante evolução (boas práticas, DX, automação e observabilidade)
+- 💼 Atualmente: soluções para **logística**, **estoque** e **abastecimento** (sistemas críticos, alta complexidade)
+- 📫 Contato: [**mateus.lopes9812@gmail.com**](mailto:mateus.lopes9812@gmail.com)
+
+---
+
+### Stack principal
+
+- **React**, **Next.js**, **TypeScript**
+- **Node.js** (BFF, integrações, APIs)
+- **Ant Design** / Design Systems
+- **Microfrontends** (Module Federation)
+- **Testes** (unit/integration/e2e conforme contexto)
+- **CI/CD** e automações para ganho de produtividade
+
+---
+
+### Destaques do que venho fazendo
+
+- **Arquitetura de Microfrontends (MFE)**: roteamento, permissões, composição de apps e padrões de integração.
+- **Soluções de logística e estoque**: construção de telas e fluxos complexos (filtros, histórico, permissões, integrações com novas APIs).
+- **Produtividade**: iniciativas de DevKit e geração de boilerplates para acelerar entregas e padronizar qualidade.
+
+---
+
+### Links
+
+- GitHub: https://github.com/MateusDev98
+- LinkedIn: https://www.linkedin.com/in/mateus-lopes-da-silva-9a3838174
+- Instagram: https://instagram.com/mateus.silva_l
+
+---
+
+### Contato rápido
+
+- Email: [**mateus.lopes9812@gmail.com**](mailto:mateus.lopes9812@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/mateus-lopes-da-silva-9a3838174
+
+---
+
+- Seções opcionais (para deixar ainda mais “recheado”)
+    
+    #### Como eu gosto de trabalhar
+    
+    - Documentação objetiva e viva (decisões, trade-offs e próximos passos)
+    - Padrões claros para facilitar colaboração e manutenção
+    - Entregas incrementais com foco no que gera valor
+    
+    #### O que estou estudando
+    
+    - Arquitetura front-end em escala (microfrontends, monorepo vs. multirepo)
+    - Performance (bundle, cache, rendering, métricas)
+    - Segurança e controle de acesso (RBAC, integração com SSO)
